@@ -1,3 +1,3 @@
 # DockerElasticBeanstalk
 
-Simple deployment using Docker and AWS Elasticbeanstalk.
+Simple deployment of game using Docker and AWS Elasticbeanstalk.
